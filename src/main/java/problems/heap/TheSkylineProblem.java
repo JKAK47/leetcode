@@ -1,4 +1,4 @@
-package heap;
+package problems.heap;
 
 import java.util.*;
 

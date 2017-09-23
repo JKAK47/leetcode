@@ -1,4 +1,4 @@
-package bit_manipulation;
+package problems.bit_manipulation;
 
 import java.util.ArrayList;
 import java.util.List;

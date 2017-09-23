@@ -1,4 +1,4 @@
-package hashing;
+package problems.hashing;
 
 /**
  * Created by gouthamvidyapradhan on 10/03/2017.

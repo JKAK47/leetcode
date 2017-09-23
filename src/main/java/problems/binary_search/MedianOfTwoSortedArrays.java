@@ -1,4 +1,4 @@
-package binary_search;
+package problems.binary_search;
 
 import java.util.ArrayList;
 import java.util.Collections;

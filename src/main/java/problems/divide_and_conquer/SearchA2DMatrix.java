@@ -1,4 +1,4 @@
-package divide_and_conquer;
+package problems.divide_and_conquer;
 
 /**
  * Created by gouthamvidyapradhan on 09/03/2017.

@@ -1,4 +1,4 @@
-package greedy;
+package problems.greedy;
 
 /**
  * Created by gouthamvidyapradhan on 02/04/2017.

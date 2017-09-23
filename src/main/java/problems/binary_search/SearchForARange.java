@@ -1,4 +1,4 @@
-package binary_search;
+package problems.binary_search;
 
 /**
  * Created by gouthamvidyapradhan on 20/05/2017.

@@ -1,4 +1,4 @@
-package design;
+package problems.design;
 
 /**
  * Created by gouthamvidyapradhan on 13/05/2017.

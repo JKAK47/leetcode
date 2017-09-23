@@ -1,4 +1,4 @@
-package stack;
+package problems.stack;
 
 import java.util.HashMap;
 import java.util.Map;

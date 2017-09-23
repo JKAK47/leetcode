@@ -1,4 +1,4 @@
-package math;
+package problems.math;
 
 import java.util.HashMap;
 import java.util.Map;

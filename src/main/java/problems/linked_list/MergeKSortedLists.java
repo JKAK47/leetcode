@@ -1,4 +1,4 @@
-package linked_list;
+package problems.linked_list;
 
 /**
  * Created by gouthamvidyapradhan on 11/03/2017.

@@ -1,4 +1,4 @@
-package backtracking;
+package problems.backtracking;
 
 /**
  * Created by PRADHANG on 4/13/2017.

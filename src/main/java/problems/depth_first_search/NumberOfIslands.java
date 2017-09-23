@@ -1,4 +1,4 @@
-package depth_first_search;
+package problems.depth_first_search;
 
 /**
  * Created by gouthamvidyapradhan on 09/03/2017.

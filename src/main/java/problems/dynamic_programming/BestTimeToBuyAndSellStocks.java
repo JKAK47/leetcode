@@ -1,4 +1,4 @@
-package dynamic_programming;
+package problems.dynamic_programming;
 
 /**
  * Created by gouthamvidyapradhan on 17/03/2017.

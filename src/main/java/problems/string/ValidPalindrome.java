@@ -1,4 +1,4 @@
-package string;
+package problems.string;
 
 /**
  * Created by gouthamvidyapradhan on 13/07/2017.

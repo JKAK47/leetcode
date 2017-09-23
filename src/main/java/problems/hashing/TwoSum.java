@@ -1,4 +1,4 @@
-package hashing;
+package problems.hashing;
 
 import java.util.HashMap;
 

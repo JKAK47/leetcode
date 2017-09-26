@@ -1,6 +1,7 @@
 package problems.array;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -33,8 +34,10 @@ public class TwoSum {
     public static void main(String[] args) {
         int[] nums = {3, 2, 4};
         int[] ans = new TwoSum().twoSum(nums, 6);
-        for (int i : ans)
-            System.out.println(i);
+        System.out.println(Arrays.toString(ans));
+         
+          
+        //System.out.println(index);
     }
 
     public int[] twoSum(int[] nums, int target) {
